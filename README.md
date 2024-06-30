@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E8TLH0X)
 # [SideFX Labs](https://github.com/sideeffects/SideFXLabs)
 The GameDev Toolset has been rebranded as SideFXLabs as these tools are useful for more than game development. See the [SideFX Labs](https://github.com/sideeffects/SideFXLabs) repo for the latest changes.
 
